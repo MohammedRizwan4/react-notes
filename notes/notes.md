@@ -187,5 +187,10 @@ function MyButton({ count, onClick }) {
 }
 ```
 
-- This is called "ifting state up". By moving state up, you've shared it between components.
+- This is called "lifting state up". By moving state up, you've shared it between components.
 
+## Tutorial: Tic-Tac-Toe
+
+- https://react.dev/learn/tutorial-tic-tac-toe
+
+- use Fragments (<> and </>) to wrap multiple adjacent JSX elements like this:
